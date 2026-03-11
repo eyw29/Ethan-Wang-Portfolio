@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Macadamia Nut Cracker Design
-description: Assignment for ENGRD 2020: Statics
+description: Assignment for ENGRD 2020 Statics
 technologies: Static analysis of frames
 image: /assets/images/nut-cracker.jpg
 ---
